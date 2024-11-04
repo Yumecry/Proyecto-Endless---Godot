@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dx2yvmqnapesm"
+path="res://.godot/imported/Noriko Sakai - 6 cover chino.mp3-a7b2e419586f0e0ebc1e0c5108099d52.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/Noriko Sakai - 6 cover chino.mp3"
+dest_files=["res://.godot/imported/Noriko Sakai - 6 cover chino.mp3-a7b2e419586f0e0ebc1e0c5108099d52.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
