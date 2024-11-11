@@ -9,10 +9,9 @@
 
 [node name="Scene3" type="Node2D"]
 
-[node name="Camera2D" parent="." node_paths=PackedStringArray("character") instance=ExtResource("1_ika8n")]
+[node name="Camera2D" parent="." instance=ExtResource("1_ika8n")]
 position = Vector2(324, 395)
 limit_right = 1800
-character = NodePath("")
 
 [node name="TileMap" type="TileMap" parent="."]
 tile_set = ExtResource("1_mv2rp")
@@ -57,6 +56,6 @@ animation = "run"
 moving_direction = "right"
 
 [node name="Crabby4" parent="." instance=ExtResource("5_4hma7")]
-position = Vector2(284, 500)
+position = Vector2(1096, 523)
 animation = "run"
 moving_direction = "right"
